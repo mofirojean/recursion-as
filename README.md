@@ -13,9 +13,9 @@
 6. Write a function using recursion to check if a number n is prime (you have to check whether n is divisible by any number below n).
 
 7. Write a recursive function that takes in one argument n and computes F n , the n th value of the Fibonacci
-sequence. Recall that the Fibonacci sequence is defined by the relation
+sequence. Recall that the Fibonacci sequence is defined by the relation.
 
     F n = F n−1 + F n−2
     where  F 0 = 0 and F 1 = 1
 
-    Visit the Wikipedia page on the Fibonacci Number for more information if you’re still confused
+    Visit the Wikipedia page on the Fibonacci Number for more information if you’re still confused.
